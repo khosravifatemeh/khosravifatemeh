@@ -1,2 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khosravifatemeh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![](https://raw.githubusercontent.com/khosravifatemeh/MyStats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/khosravifatemeh/MyStats/master/generated/languages.svg)
